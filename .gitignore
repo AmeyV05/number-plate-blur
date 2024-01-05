@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.tif
+*.las
+*.laz
+*.ply
+*.pth
+output/
